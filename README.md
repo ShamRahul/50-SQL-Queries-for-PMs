@@ -1,2 +1,2 @@
-# 50-SQL-Queries-for-PMs
+# 20-SQL-Queries-for-PMs
 SQL Queries for Data Analysis by PM
