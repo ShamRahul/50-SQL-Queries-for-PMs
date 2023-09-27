@@ -44,6 +44,9 @@ This repository contains various SQL queries demonstrating different SQL concept
 ## Usage
 These queries are meant for educational purposes to understand and learn SQL concepts and are to be run on a SQL-compatible database system with the corresponding tables and data.
 
+## Acknowldegments 
+To Chandoo YouTube Channel video on Learning SQL Queries in 1 hour.
+
 ## Contributing
 Feel free to fork this repository, make changes, and open a pull request if you think your changes should be included in the main project.
 
