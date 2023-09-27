@@ -1,8 +1,5 @@
 # SQL-Queries-for-PMs
 SQL Queries for Data Analysis by PM
-
-# SQL Queries Repository
-
 This repository contains various SQL queries demonstrating different SQL concepts and operations, ranging from basic to advanced, on hypothetical tables representing sales, people, products, and geographical locations.
 
 ## Tables Involved
